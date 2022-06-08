@@ -1,5 +1,3 @@
-![I'm a creater, programmer](https://pbs.twimg.com/profile_banners/1465363072571232261/1648129420/600x200)
-
 # Rajendra G Kanbargi
 ### Hi there 👋, I'm Rajendra G K
 ### I'm a Creator, Coder.
