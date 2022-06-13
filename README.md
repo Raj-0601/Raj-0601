@@ -1,10 +1,11 @@
 # Rajendra G Kanbargi
 ### Hi there 👋, I'm Rajendra G K
-### I'm a Creator, Coder.
+### I'm a Enthusiast learner, Focused on growth.
 
 ### My Skills:
 🅿 Python
 ⌨ C , C++ 
+OOPs , DSA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raj-0601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rajendra-g-kanbargi-1861a8225//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Raj-0601/)  
 
